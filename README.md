@@ -3,6 +3,8 @@
 This code downloads and stores the top 50 from Spotify's Top 200 from
 spotifycharts.com for each day in 2020 into a CSV file.
 
+Here is a [link](https://public.tableau.com/profile/michelle.ortiz#!/vizhome/practicedashboard_16213827720380/Dashboard1) to the Tableau Dashboard.
+
 ## Usage
 
 Here will be the usage instructions.
