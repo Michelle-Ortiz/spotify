@@ -11,7 +11,6 @@ def del_file(f):
     """
     f.unlink()
 
-#date code i copied
 def daterange(start_date, end_date):
     """Date range generator.
     Args:
@@ -76,7 +75,7 @@ def main():
     #where i want to move it
     new_path = Path('C:/Users/miche/OneDrive/Desktop/folder/github-repos/spotify/csv-files/')
     #super csv name
-    csv_super_name = f'super{csv_suffix}'
+    csv_super_name = f'spotify-top-50-2020{csv_suffix}'
     #start and end
     start_date = date(2020, 1, 1)
     end_date = date(2021, 1, 1)
